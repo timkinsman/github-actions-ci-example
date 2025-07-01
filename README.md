@@ -1,2 +1,2 @@
 # github-actions-ci-example
-GitHub actions setup for CI
+GitHub Actions setup for CI
