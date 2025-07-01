@@ -5,6 +5,8 @@ on:
     workflows: bump-version
     types:
       - completed
+    branches:
+      - main
 
 jobs:
   release:
