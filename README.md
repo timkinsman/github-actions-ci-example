@@ -12,9 +12,3 @@ Bumps the package.json version on a successful `tests.yml` run on a `main` branc
 ### release.yml
 
 Creates a github tag and release on a successful `bump-version.yml` run on a `main` branch.
-
-## Important!
-
-Requires `Workflow permissions` to be set to `Read and write permissions`.
-
-![image](https://github.com/user-attachments/assets/06357d0c-67bc-4917-abd3-a314cd9c95a3)
